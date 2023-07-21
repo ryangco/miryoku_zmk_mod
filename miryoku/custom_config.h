@@ -55,4 +55,4 @@ U_NP,              U_NP,              U_LT(U_FUN, ESC),  U_LT(U_NUM, SPACE), U_L
 
 #define MIRYOKU_CLIPBOARD_WIN
 #define MIRYOKU_EXTRA_QWERTY
-#define MIRYOKU_KLUDGE_MOUSEKEYSPR
+
