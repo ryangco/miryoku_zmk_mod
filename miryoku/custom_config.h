@@ -55,5 +55,7 @@ U_NP,              U_NP,              U_LT(U_FUN, ESC),  U_LT(U_NUM, SPACE), U_L
 
 #endif
 
+#define MIRYOKU_KLUDGE_SOFT_OFF
+
 #define MIRYOKU_CLIPBOARD_WIN
 #define MIRYOKU_EXTRA_QWERTY
