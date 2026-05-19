@@ -6,6 +6,8 @@
 
 #include "miryoku_layer_alternatives.h"
 
+#define MIRYOKU_LAYERS_FLIP
+#define MIRYOKU_NAV_INVERTEDT
 #if !defined(MIRYOKU_LAYER_BASE)
   #if defined (MIRYOKU_LAYERS_FLIP)
     #if defined (MIRYOKU_ALPHAS_AZERTY)
